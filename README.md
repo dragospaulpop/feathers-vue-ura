@@ -1,5 +1,5 @@
 Steps to prepare project:
- 1. clone the repo
+ 1. clone the repo (https://github.com/dragospaulpop/feathers-vue-ura.git)
  2. navigate to "/backend" and run "npm install"
  3. navigate to "/frontend" and run "npm install"
 
